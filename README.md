@@ -6,11 +6,11 @@
 
 ## Authors
 
-- Anuj Ashok Dev (B00900887)
-- Jay Patel (B00886902)
-- Meha Desai (B00895646)
-- Purvil Bharthania (B00901605)
-- Viren Malavia (B00895669)
+- Anuj Ashok Dev _(B00900887)_
+- Jay Patel _(B00886902)_
+- Meha Desai _(B00895646)_
+- Purvil Bharthania _(B00901605)_
+- Viren Malavia _(B00895669)_
 
 ## Getting started
 
